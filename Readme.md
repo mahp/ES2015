@@ -1,4 +1,4 @@
-# Understandng ECMASCRIPT 6
+# Understanding ECMASCRIPT 6
 
 1. 块级作用域
 2. 字符串与正则表达式
